@@ -40,6 +40,6 @@ def main():
         print(colored("Traceback:", "red"))
         traceback.print_exc()
 
-
+# pointless update
 if __name__ == "__main__":
     main()
